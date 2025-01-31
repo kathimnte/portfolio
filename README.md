@@ -4,23 +4,21 @@
 
 ## Work Experience
 
-**AI Engineer (_Jun 2024 - Present_)**
-- Designed and optimized RAG systems and multi-agent architectures using Langchain and LangGraph, enhancing response accuracy and relevance in customer service environments.
-- Integrated LLMs with Azure Search to build a virtual assistant capable of retrieving information from internal documents with sensitive access policies, applying code-based censorship techniques to ensure data security.
-- Implemented a solution to enhance database search by combining Azure Search with OpenAI prompting, improving information retrieval and contextualization.
-- Developed a quality assessment framework leveraging multiple evaluation metrics, including Context Precision, Noise Sensitivity, Response Relevancy, and Faithfulness, enabling scalable assessment across multiple bots.
-- Automated the evaluation of AI metrics using Azure Functions, streamlining the monitoring process and ensuring real-time performance tracking.
-- Optimized RAG pipelines, improving response times and overall system efficiency by 15%.
-- Implemented logging and monitoring in Azure to analyze system performance and troubleshoot issues effectively.
-- Connected an SQL table to a Power BI dashboard, enabling automatic daily updates of AI metrics and providing real-time insights into system performance.
+**AI Engineer (Jun 2024 - Present)**
+- Optimized RAG systems and multi-agent architectures with Langchain and LangGraph to improve response accuracy in customer service.
+- Integrated LLMs with Azure Search, creating a virtual assistant with secure information retrieval and code-based censorship.
+- Enhanced database search with Azure Search and OpenAI prompting for better information contextualization.
+- Developed a quality framework using metrics like Context Precision, Noise Sensitivity, and Faithfulness for scalable bot assessments.
+- Automated AI metrics evaluation using Azure Functions for real-time performance tracking.
+- Improved RAG pipeline efficiency by 15%, with optimized response times and performance monitoring.
+- Integrated SQL data with Power BI for automated daily updates on AI metrics.
 
-**Data Analyst (_Ago 2023 - May 2024_)**
-- Collected and analyzed data using Python and the Pandas library, leveraging DataFrames to manipulate and process data in Excel for detailed statistical analysis.
-- Generated detailed reports and visualizations with Power BI, leveraging DAX for advanced calculations and creating interactive dashboards.
-- Developed dynamic dashboards with features such as Power Query, custom visualizations, and data modeling to facilitate data-driven decision-making processes across teams.
-- Applied Power BI’s time intelligence functions and calculated columns to enhance reporting accuracy and efficiency.
-- Created data models with relationships between tables, allowing for the creation of more sophisticated reports and analysis.
-- Utilized Power BI Service to publish and share dashboards, allowing stakeholders to interact with live data and insights.
+**Data Analyst (Ago 2023 - May 2024)**
+- Analyzed data with Python and Pandas, processing it in Excel for statistical insights.
+- Created reports and interactive dashboards in Power BI using DAX and custom visualizations.
+- Developed dynamic, data-driven dashboards with Power Query, enhancing decision-making across teams.
+- Applied time intelligence functions in Power BI for improved reporting accuracy.
+- Built data models to create advanced reports and shared live insights through Power BI Service.
 
 ## Projects
 
