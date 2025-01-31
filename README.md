@@ -28,6 +28,11 @@ Developed an automated pipeline to evaluate the accuracy of responses from RAG m
 ### Customer Service Bot Optimization
 Refined prompting and improved information retrieval performance in customer service bots based on Azure Search. Implemented mechanisms to prevent inappropriate responses and ensure proper interpretation of sensitive queries.
 
+## Dataset Cleaning and Analysis with Pandas & Power BI
+- Collected and analyzed data using Python and Pandas, leveraging DataFrames for statistical analysis and processing data in Excel.
+- Created dynamic reports and visualizations in Power BI, utilizing DAX for advanced calculations and custom data models to improve decision-making.
+- Developed interactive dashboards and shared insights via Power BI Service to engage stakeholders with real-time data.
+
 ## Contact
 - Linkedin: www.linkedin.com/in/katherina-montenegro-417971210
 - Email: katherinamonttenegro@gmail.com 
