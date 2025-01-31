@@ -5,16 +5,22 @@
 ## Work Experience
 
 **AI Engineer (_Jun 2024 - Present_)**
-- Optimized performance and improved accuracy in customer service bots with RAG architecture and agents, directly impacting the customer service area.
-- Implemented evaluation frameworks like RAGAS to measure the accuracy and relevance of AI-generated responses.
-- Integrated knowledge bases into Azure to enhance information retrieval and improve user experience.
-- Developed and improved prompts to ensure appropriate responses and prevent the disclosure of sensitive information in production.
-- Automated processes for updating databases and logging queries in MySQL.
+- Designed and optimized RAG systems and multi-agent architectures using Langchain and LangGraph, enhancing response accuracy and relevance in customer service environments.
+- Integrated LLMs with Azure Search to build a virtual assistant capable of retrieving information from internal documents with sensitive access policies, applying code-based censorship techniques to ensure data security.
+- Implemented a solution to enhance database search by combining Azure Search with OpenAI prompting, improving information retrieval and contextualization.
+- Developed a quality assessment framework leveraging multiple evaluation metrics, including Context Precision, Noise Sensitivity, Response Relevancy, and Faithfulness, enabling scalable assessment across multiple bots.
+- Automated the evaluation of AI metrics using Azure Functions, streamlining the monitoring process and ensuring real-time performance tracking.
+- Optimized RAG pipelines, improving response times and overall system efficiency by 15%.
+- Implemented logging and monitoring in Azure to analyze system performance and troubleshoot issues effectively.
+- Connected an SQL table to a Power BI dashboard, enabling automatic daily updates of AI metrics and providing real-time insights into system performance.
 
 **Data Analyst (_Ago 2023 - May 2024_)**
-- Análisis exploratorio de datos (EDA) para mejorar la toma de decisiones basadas en datos.
-- Modelado de datos y generación de insights con Pandas y SQL.
-- Desarrollo de dashboards y reportes para diferentes áreas del negocio.
+- Collected and analyzed data using Python and the Pandas library, leveraging DataFrames to manipulate and process data in Excel for detailed statistical analysis.
+- Generated detailed reports and visualizations with Power BI, leveraging DAX for advanced calculations and creating interactive dashboards.
+- Developed dynamic dashboards with features such as Power Query, custom visualizations, and data modeling to facilitate data-driven decision-making processes across teams.
+- Applied Power BI’s time intelligence functions and calculated columns to enhance reporting accuracy and efficiency.
+- Created data models with relationships between tables, allowing for the creation of more sophisticated reports and analysis.
+- Utilized Power BI Service to publish and share dashboards, allowing stakeholders to interact with live data and insights.
 
 ## Projects
 
